@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{e as o,o as c,c as n,f as r,w as s,q as a}from"./index-DuuR-CZp.js";const _={},d={class:"ct-card ct-content-box"};function l(f,i){const e=o("el-button");return c(),n("div",d,[r(e,{type:"primary"},{default:s(()=>[a(" 使用useTreeTable ")]),_:1})])}const u=t(_,[["render",l]]);export{u as default};

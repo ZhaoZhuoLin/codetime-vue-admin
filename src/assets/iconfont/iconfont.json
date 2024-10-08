@@ -1,0 +1,51 @@
+{
+  "id": "4587731",
+  "name": "codetime-admin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3868274",
+      "name": "配网引导",
+      "font_class": "peiwangyindao",
+      "unicode": "eb65",
+      "unicode_decimal": 60261
+    },
+    {
+      "icon_id": "38127464",
+      "name": "G_用户头像",
+      "font_class": "G_yonghutouxiang",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "579386",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9273208",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "10352321",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "12359510",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    }
+  ]
+}
