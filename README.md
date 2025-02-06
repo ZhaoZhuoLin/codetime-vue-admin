@@ -1,4 +1,4 @@
-# codetime-vue-admin 快速搭建一个基于Vue3和Element Plus的后台管理系统
+# codetime-vue-admin 快速搭建后台管理系统(Vue3+ElementPlus)
 
 ## 运行
 ```js

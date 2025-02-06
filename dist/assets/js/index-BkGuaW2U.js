@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{e as o,o as c,c as n,f as s,w as a,q as r}from"./index-DuuR-CZp.js";const _={},d={class:"ct-card ct-content-box"};function l(f,i){const e=o("el-button");return c(),n("div",d,[s(e,{type:"primary"},{default:a(()=>[r(" 使用useCtTable ")]),_:1})])}const u=t(_,[["render",l]]);export{u as default};

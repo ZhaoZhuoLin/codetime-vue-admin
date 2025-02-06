@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,a as o}from"./index-DuuR-CZp.js";const s={},n={class:"ct-card ct-content-box"},a=o("span",null,"菜单管理",-1),r=[a];function _(d,i){return t(),c("div",n,r)}const m=e(s,[["render",_]]);export{m as default};
