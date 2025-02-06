@@ -1,5 +1,5 @@
 import NProgress from "@/utils/nprogress";
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import { useUserStore } from "@/stores/modules/user.ts"
 import { useAuthStore } from "@/stores/modules/auth.ts"
 import { staticRouter, errorRouter } from "@/routers/modules/staticRouter";
@@ -32,7 +32,7 @@ import { initDynamicRouter } from "@/routers/modules/dynamicRouter.ts"
  */
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes: [...staticRouter, ...errorRouter],
   strict: false,
   scrollBehavior: () => ({ left: 0, top: 0 })
